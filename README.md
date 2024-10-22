@@ -17,4 +17,4 @@ Bu proje, kullanıcıların **Google-Gmail** ile giriş yaparak farklı sohbet o
 - **Emoji-picker-react**
 - **Sass**
  
- ![](https://github.com/Rasime-Dumlupunar/chat-room/blob/main/chat-room.gif)) 
+ ![](https://github.com/Rasime-Dumlupunar/chat-room/blob/main/chat-room.gif)
