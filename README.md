@@ -17,4 +17,4 @@ Bu proje, kullanıcıların **Google-Gmail** ile giriş yaparak farklı sohbet o
 - **Emoji-picker-react**
 - **Sass**
  
- ![chat-room-gif] (/Users/rasime/Desktop/Firebase-1-proje/chat-room.gif) 
+ ![](https://github.com/Rasime-Dumlupunar/chat-room/blob/main/chat-room.gif)) 
